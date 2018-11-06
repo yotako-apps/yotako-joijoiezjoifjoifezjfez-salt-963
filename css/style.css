@@ -1,0 +1,596 @@
+@media (max-width:768px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 375px
+  }
+  .style2,
+  .style3 {
+    background-color: #fff;
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070;
+    display: flex;
+    flex-direction: column
+  }
+  .style2 {
+    margin-left: 82px;
+    border-top-left-radius: 111px 152px;
+    border-top-right-radius: 111px 152px;
+    border-bottom-left-radius: 111px 152px;
+    border-bottom-right-radius: 111px 152px;
+    margin-top: 18px;
+    width: 220px;
+    height: 302px
+  }
+  .style3 {
+    border-top-left-radius: 60px;
+    border-top-right-radius: 60px;
+    border-bottom-left-radius: 60px;
+    border-bottom-right-radius: 60px;
+    position: relative;
+    margin-top: 55px;
+    width: 117px;
+    height: 117px
+  }
+  .iphone6781container2container3row0 {
+    display: flex;
+    margin-left: 25px;
+    margin-top: 0;
+    width: 184px;
+    height: 126px;
+    align-items: center;
+    flex-shrink: 0
+  }
+  .style5,
+  .style6 {
+    background-color: #000;
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    margin-left: 0;
+    width: 17px;
+    height: 17px
+  }
+  .style5 {
+    background-color: #fff;
+    border-top-left-radius: 64px;
+    border-top-right-radius: 64px;
+    border-bottom-left-radius: 64px;
+    border-bottom-right-radius: 64px;
+    display: flex;
+    margin-left: 41px;
+    width: 126px;
+    height: 100%;
+    flex-direction: column
+  }
+  .style7 {
+    background-color: #000;
+    border-top-left-radius: 13px;
+    border-top-right-radius: 13px;
+    border-bottom-left-radius: 13px;
+    border-bottom-right-radius: 13px;
+    margin-left: 23px;
+    margin-top: 59px;
+    width: 23px;
+    height: 23px
+  }
+  .style4,
+  .style8 {
+    background-color: #fff;
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070
+  }
+  .style4 {
+    position: relative;
+    align-self: flex-end;
+    flex-shrink: 0;
+    border-top-left-radius: 26px;
+    border-top-right-radius: 26px;
+    border-bottom-left-radius: 26px;
+    border-bottom-right-radius: 26px;
+    margin-top: 89px;
+    width: 49px;
+    height: 49px
+  }
+  .style8 {
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    margin-left: 25px;
+    margin-top: 42px;
+    width: 147px;
+    height: 25px
+  }
+  .iphone6781row1 {
+    position: relative;
+    display: flex;
+    margin-left: 73px;
+    margin-top: 128px;
+    width: 250px;
+    height: 63px;
+    align-items: center
+  }
+  .style0,
+  .style1 {
+    background-color: #fff;
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070;
+    border-top-left-radius: 29px;
+    border-top-right-radius: 29px;
+    border-bottom-left-radius: 29px;
+    border-bottom-right-radius: 29px;
+    position: relative;
+    margin-left: 0;
+    width: 55px;
+    height: 55px;
+    flex-shrink: 0
+  }
+  .style1 {
+    border-top-left-radius: 33px;
+    border-top-right-radius: 33px;
+    border-bottom-left-radius: 33px;
+    border-bottom-right-radius: 33px;
+    margin-left: 132px;
+    width: 63px;
+    height: 100%
+  }
+}
+@media (min-width:768px) and (max-width:920px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 768px
+  }
+  .style2,
+  .style3 {
+    background-color: #fff;
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070;
+    display: flex;
+    flex-direction: column
+  }
+  .style2 {
+    margin-left: 168px;
+    border-top-left-radius: 111px 152px;
+    border-top-right-radius: 111px 152px;
+    border-bottom-left-radius: 111px 152px;
+    border-bottom-right-radius: 111px 152px;
+    margin-top: 37px;
+    width: 451px;
+    height: 618px
+  }
+  .style3 {
+    border-top-left-radius: 60px;
+    border-top-right-radius: 60px;
+    border-bottom-left-radius: 60px;
+    border-bottom-right-radius: 60px;
+    position: relative;
+    margin-top: 113px;
+    width: 240px;
+    height: 240px
+  }
+  .iphone6781container2container3row0 {
+    display: flex;
+    margin-left: 51px;
+    margin-top: 0;
+    width: 377px;
+    height: 258px;
+    align-items: center;
+    flex-shrink: 0
+  }
+  .style5,
+  .style6 {
+    background-color: #000;
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    margin-left: 0;
+    width: 35px;
+    height: 35px
+  }
+  .style5 {
+    background-color: #fff;
+    border-top-left-radius: 64px;
+    border-top-right-radius: 64px;
+    border-bottom-left-radius: 64px;
+    border-bottom-right-radius: 64px;
+    display: flex;
+    margin-left: 84px;
+    width: 258px;
+    height: 100%;
+    flex-direction: column
+  }
+  .style7 {
+    background-color: #000;
+    border-top-left-radius: 13px;
+    border-top-right-radius: 13px;
+    border-bottom-left-radius: 13px;
+    border-bottom-right-radius: 13px;
+    margin-left: 47px;
+    margin-top: 121px;
+    width: 47px;
+    height: 47px
+  }
+  .style4,
+  .style8 {
+    background-color: #fff;
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070
+  }
+  .style4 {
+    position: relative;
+    align-self: flex-end;
+    flex-shrink: 0;
+    border-top-left-radius: 26px;
+    border-top-right-radius: 26px;
+    border-bottom-left-radius: 26px;
+    border-bottom-right-radius: 26px;
+    margin-top: 182px;
+    width: 100px;
+    height: 100px
+  }
+  .style8 {
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    margin-left: 51px;
+    margin-top: 86px;
+    width: 301px;
+    height: 51px
+  }
+  .iphone6781row1 {
+    position: relative;
+    display: flex;
+    margin-left: 150px;
+    margin-top: 262px;
+    width: 512px;
+    height: 129px;
+    align-items: center
+  }
+  .style0,
+  .style1 {
+    background-color: #fff;
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070;
+    border-top-left-radius: 29px;
+    border-top-right-radius: 29px;
+    border-bottom-left-radius: 29px;
+    border-bottom-right-radius: 29px;
+    position: relative;
+    margin-left: 0;
+    width: 113px;
+    height: 113px;
+    flex-shrink: 0
+  }
+  .style1 {
+    border-top-left-radius: 33px;
+    border-top-right-radius: 33px;
+    border-bottom-left-radius: 33px;
+    border-bottom-right-radius: 33px;
+    margin-left: 270px;
+    width: 129px;
+    height: 100%
+  }
+}
+@media (min-width:920px) and (max-width:1200px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 920px
+  }
+  .style2,
+  .style3 {
+    background-color: #fff;
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070;
+    display: flex;
+    flex-direction: column
+  }
+  .style2 {
+    margin-left: 201px;
+    border-top-left-radius: 111px 152px;
+    border-top-right-radius: 111px 152px;
+    border-bottom-left-radius: 111px 152px;
+    border-bottom-right-radius: 111px 152px;
+    margin-top: 44px;
+    width: 540px;
+    height: 741px
+  }
+  .style3 {
+    border-top-left-radius: 60px;
+    border-top-right-radius: 60px;
+    border-bottom-left-radius: 60px;
+    border-bottom-right-radius: 60px;
+    position: relative;
+    margin-top: 135px;
+    width: 287px;
+    height: 287px
+  }
+  .iphone6781container2container3row0 {
+    display: flex;
+    margin-left: 61px;
+    margin-top: 0;
+    width: 451px;
+    height: 309px;
+    align-items: center;
+    flex-shrink: 0
+  }
+  .style5,
+  .style6 {
+    background-color: #000;
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    margin-left: 0;
+    width: 42px;
+    height: 42px
+  }
+  .style5 {
+    background-color: #fff;
+    border-top-left-radius: 64px;
+    border-top-right-radius: 64px;
+    border-bottom-left-radius: 64px;
+    border-bottom-right-radius: 64px;
+    display: flex;
+    margin-left: 101px;
+    width: 309px;
+    height: 100%;
+    flex-direction: column
+  }
+  .style7 {
+    background-color: #000;
+    border-top-left-radius: 13px;
+    border-top-right-radius: 13px;
+    border-bottom-left-radius: 13px;
+    border-bottom-right-radius: 13px;
+    margin-left: 56px;
+    margin-top: 145px;
+    width: 56px;
+    height: 56px
+  }
+  .style4,
+  .style8 {
+    background-color: #fff;
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070
+  }
+  .style4 {
+    position: relative;
+    align-self: flex-end;
+    flex-shrink: 0;
+    border-top-left-radius: 26px;
+    border-top-right-radius: 26px;
+    border-bottom-left-radius: 26px;
+    border-bottom-right-radius: 26px;
+    margin-top: 218px;
+    width: 120px;
+    height: 120px
+  }
+  .style8 {
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    margin-left: 61px;
+    margin-top: 103px;
+    width: 361px;
+    height: 61px
+  }
+  .iphone6781row1 {
+    position: relative;
+    display: flex;
+    margin-left: 179px;
+    margin-top: 314px;
+    width: 613px;
+    height: 155px;
+    align-items: center
+  }
+  .style0,
+  .style1 {
+    background-color: #fff;
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070;
+    border-top-left-radius: 29px;
+    border-top-right-radius: 29px;
+    border-bottom-left-radius: 29px;
+    border-bottom-right-radius: 29px;
+    position: relative;
+    margin-left: 0;
+    width: 135px;
+    height: 135px;
+    flex-shrink: 0
+  }
+  .style1 {
+    border-top-left-radius: 33px;
+    border-top-right-radius: 33px;
+    border-bottom-left-radius: 33px;
+    border-bottom-right-radius: 33px;
+    margin-left: 324px;
+    width: 155px;
+    height: 100%
+  }
+}
+@media (min-width:1200px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1200px
+  }
+  .style2,
+  .style3 {
+    background-color: #fff;
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070;
+    display: flex;
+    flex-direction: column
+  }
+  .style2 {
+    margin-left: 262px;
+    border-top-left-radius: 111px 152px;
+    border-top-right-radius: 111px 152px;
+    border-bottom-left-radius: 111px 152px;
+    border-bottom-right-radius: 111px 152px;
+    margin-top: 58px;
+    width: 704px;
+    height: 966px
+  }
+  .style3 {
+    border-top-left-radius: 60px;
+    border-top-right-radius: 60px;
+    border-bottom-left-radius: 60px;
+    border-bottom-right-radius: 60px;
+    position: relative;
+    margin-top: 176px;
+    width: 374px;
+    height: 374px
+  }
+  .iphone6781container2container3row0 {
+    display: flex;
+    margin-left: 80px;
+    margin-top: 0;
+    width: 589px;
+    height: 403px;
+    align-items: center;
+    flex-shrink: 0
+  }
+  .style5,
+  .style6 {
+    background-color: #000;
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    margin-left: 0;
+    width: 54px;
+    height: 54px
+  }
+  .style5 {
+    background-color: #fff;
+    border-top-left-radius: 64px;
+    border-top-right-radius: 64px;
+    border-bottom-left-radius: 64px;
+    border-bottom-right-radius: 64px;
+    display: flex;
+    margin-left: 131px;
+    width: 403px;
+    height: 100%;
+    flex-direction: column
+  }
+  .style7 {
+    background-color: #000;
+    border-top-left-radius: 13px;
+    border-top-right-radius: 13px;
+    border-bottom-left-radius: 13px;
+    border-bottom-right-radius: 13px;
+    margin-left: 74px;
+    margin-top: 189px;
+    width: 74px;
+    height: 74px
+  }
+  .style4,
+  .style8 {
+    background-color: #fff;
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070
+  }
+  .style4 {
+    position: relative;
+    align-self: flex-end;
+    flex-shrink: 0;
+    border-top-left-radius: 26px;
+    border-top-right-radius: 26px;
+    border-bottom-left-radius: 26px;
+    border-bottom-right-radius: 26px;
+    margin-top: 285px;
+    width: 157px;
+    height: 157px
+  }
+  .style8 {
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    margin-left: 80px;
+    margin-top: 134px;
+    width: 470px;
+    height: 80px
+  }
+  .iphone6781row1 {
+    position: relative;
+    display: flex;
+    margin-left: 234px;
+    margin-top: 410px;
+    width: 800px;
+    height: 202px;
+    align-items: center
+  }
+  .style0,
+  .style1 {
+    background-color: #fff;
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070;
+    border-top-left-radius: 29px;
+    border-top-right-radius: 29px;
+    border-bottom-left-radius: 29px;
+    border-bottom-right-radius: 29px;
+    position: relative;
+    margin-left: 0;
+    width: 176px;
+    height: 176px;
+    flex-shrink: 0
+  }
+  .style1 {
+    border-top-left-radius: 33px;
+    border-top-right-radius: 33px;
+    border-bottom-left-radius: 33px;
+    border-bottom-right-radius: 33px;
+    margin-left: 422px;
+    width: 202px;
+    height: 100%
+  }
+}
